@@ -9,11 +9,8 @@
 - **LinkedIn:** https://www.linkedin.com/feed/
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### Centro de psicologia y terapias IPS_(2023-2025)_
+- Preste los servicios en fonoaudiologia desde el 10 de enero del 2023 hasta el 27 de junio del 2025. 
 
 ## 🎓 Educación
 ### Servicio Nacional de Aprendizaje (SENA) (2026 - En curso)
